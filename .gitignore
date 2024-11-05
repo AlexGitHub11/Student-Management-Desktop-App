@@ -1,2 +1,4 @@
 .idea
-.venv
+venv
+avr_speed_calc.py
+example.py
